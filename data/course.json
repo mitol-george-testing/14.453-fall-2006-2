@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dcdd5fa5-1aa9-1781-6fd1-2c9f28fc3c8f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Macroeconomic Theory III",
+  "course_description": "This course covers issues in the theory of consumption, investment and asset prices. We lay out the basic models first, and then examine the empirical facts that motivate extensions to these models.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.453",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
